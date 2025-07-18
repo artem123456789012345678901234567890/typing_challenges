@@ -1,7 +1,7 @@
-from constants import ___
+from constants import string
 
 
-def stringify(value: ___) -> ___:
+def stringify(value: int | str | None) -> inr | float | None:
     pass
 
 
