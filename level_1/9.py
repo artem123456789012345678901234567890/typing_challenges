@@ -1,7 +1,7 @@
-from constants import ___
+from constants import correct_int
 
 
-def is_correct_int(raw_int: ___) -> ___:
+def is_correct_int(raw_int: int | str) -> bool:
     pass
 
 
