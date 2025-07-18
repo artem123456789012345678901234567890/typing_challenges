@@ -1,10 +1,10 @@
 import decimal
 import uuid
 
-from constants import ___
+from constants import balace
 
 
-def get_user_balance(user_id: ___) -> ___:
+def get_user_balance(user_id: int) -> float:
     pass
 
 
