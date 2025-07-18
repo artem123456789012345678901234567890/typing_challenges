@@ -1,7 +1,7 @@
-from constants import ___
+from constants import email
 
 
-def is_correct_email(raw_email: ___) -> ___:
+def is_correct_email(raw_email: str) -> bool:
     pass
 
 
